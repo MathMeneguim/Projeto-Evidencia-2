@@ -1,0 +1,28 @@
+/* nav {
+  height: 92px;
+}
+.nav-item a {
+  font-size: 14px;;
+}
+.nav-item a:hover {
+  color: #fff !important;
+}
+.pesquisa {
+  display:none
+}
+@media (min-width: 1200px) {
+  .pesquisa {
+    flex: 0 1 auto;
+  }
+}
+.navbar-brand img {
+  height: 40px;
+}
+.search-bar {
+  display: none;
+}
+@media (min-width: 768px) {
+  .search-bar {
+      display: block;
+  }
+} */

@@ -1,0 +1,63 @@
+.card-custom {
+  height: 100%;
+}
+
+.card-category {
+  height: 100%;
+}
+
+div.imagens_category {
+  min-height: 100px;
+}
+
+div.bateria {
+  background-image: url(../images/bateria.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+
+div.guitarra {
+  background-image: url(../images/guitarra_preta.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+
+div.baixo {
+  background-image: url(../images/baixo.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+
+div.piano {
+  background-image: url(../images/piano.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+/* sm */
+@media (min-width: 576px) { 
+  div.imagens_category {
+    min-height: 200px;
+  }
+}
+
+/* md */
+@media (min-width: 768px) {  
+  div.imagens_category {
+    min-height: 150px;
+  }
+}
+
+/* lg */
+@media (min-width: 992px) {  
+  div.imagens_category {
+    min-height: 150px;
+  }
+}
