@@ -7,38 +7,35 @@
 }
 
 div.imagens_category {
-  min-height: 100px;
+  min-height: 300px;
 }
 
 div.bateria {
   background-image: url(../images/bateria.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-
+  background-position: center;
 }
-
 
 div.guitarra {
   background-image: url(../images/guitarra_preta.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-
+  background-position: center;
 }
-
 
 div.baixo {
   background-image: url(../images/baixo.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-
+  background-position: center;
 }
-
 
 div.piano {
   background-image: url(../images/piano.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-
+  background-position: center;
 }
 
 /* sm */
