@@ -28,3 +28,13 @@ fetch('../assets/html/news.html')
 .then(res => res.text())
 .then(data => document.getElementById('news-template').innerHTML = data)
 .catch(console.error);
+
+fetch('../assets/html/article.html')
+.then(res => res.text())
+.then(data => document.getElementById('article-template').innerHTML = data)
+.catch(console.error);
+
+fetch('../assets/html/footer.html')
+.then(res => res.text())
+.then(data => document.getElementById('footer-template').innerHTML = data)
+.catch(console.error);

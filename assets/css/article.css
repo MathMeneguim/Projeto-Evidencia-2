@@ -1,0 +1,10 @@
+.row_article_image {
+  max-height: 70px;
+  display: flex;
+}
+
+div.article_images {
+  height: 45px;
+  width: 45px;
+  border-radius: 50px;
+}
