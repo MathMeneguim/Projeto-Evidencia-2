@@ -1,0 +1,30 @@
+div.imagens_news {
+  height: 70px;
+  width: 70px;
+  /* height: auto */
+}
+
+.row_image {
+  max-height: 70px;
+  display: flex;
+}
+
+@media (min-width: 1px) { 
+  div.section_left_news {
+    flex-direction: column;
+  }
+}
+
+/* md */
+@media (min-width: 768px) {  
+  div.section_left_news {
+    flex-direction: row;
+  }
+}
+
+/* lg */
+@media (min-width: 992px) {  
+  div.section_left_news {
+    flex-direction: row;
+  }
+}

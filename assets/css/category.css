@@ -1,3 +1,10 @@
+.font-category {
+  font-family: 'Sequel Sans', sans-serif;
+  font-weight: 435;
+  font-size: 37px;
+  line-height: 75px;
+  text-align: center;
+}
 
 
 .card-custom {
