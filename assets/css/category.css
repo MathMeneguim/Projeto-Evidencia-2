@@ -1,12 +1,3 @@
-.font-category {
-  font-family: 'Sequel Sans', sans-serif;
-  font-weight: 435;
-  font-size: 37px;
-  line-height: 75px;
-  text-align: center;
-}
-
-
 .card-custom {
   height: 100%;
 }
@@ -17,34 +8,6 @@
 
 div.imagens_category {
   min-height: 300px;
-}
-
-div.bateria {
-  background-image: url(../images/bateria.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-div.guitarra {
-  background-image: url(../images/guitarra_preta.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-div.baixo {
-  background-image: url(../images/baixo.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-div.piano {
-  background-image: url(../images/piano.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 /* sm */

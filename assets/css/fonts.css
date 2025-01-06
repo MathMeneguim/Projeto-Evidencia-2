@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Archivo Black';
+  src: url('../fonts/Archivo_Black/ArchivoBlack-Regular.ttf') format('truetype');
+  font-weight: 100 900;
+  font-stretch: 100% 200%;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Spyce Rice';
+  src: url('../fonts/Spicy_Rice/SpicyRice-Regular.ttf') format('truetype');
+  font-weight: 100 900;
+  font-stretch: 100% 200%;
+  font-style: normal;
+}

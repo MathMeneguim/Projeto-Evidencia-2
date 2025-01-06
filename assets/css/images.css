@@ -1,0 +1,161 @@
+
+div.bateria {
+  background-image: url(../images/bateria.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.guitarra {
+  background-image: url(../images/guitarra_preta.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.baixo {
+  background-image: url(../images/baixo.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.piano {
+  background-image: url(../images/piano.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.baixistas {
+  background-image: url(../images/bassists.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.explorer {
+  background-image: url(../images/explorer.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.flying_v {
+  background-image: url(../images/flying_v.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.sg {
+  background-image: url(../images/SG.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.bassists {
+  background-image: url(../images/bassists.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.kiko_loureiro {
+  background-image: url(../images/kiko_loureiro.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.freddie {
+  background-image: url(../images/freddie.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.helloween {
+  background-image: url(../images/helloween_album.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.bb_king {
+  background-image: url(../images/bb_king.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.iron_maiden {
+  background-image: url(../images/iron_maiden.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.guitar_promo {
+  background-image: url(../images/guitar_promo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.bateria_promo {
+  background-image: url(../images/bateria_promo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.piano_promo {
+  background-image: url(../images/piano_promocao.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.aula_guitarra {
+  background-image: url(../images/aula_guitarra.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.aula_canto {
+  background-image: url(../images/aula_canto.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.aula_piano {
+  background-image: url(../images/aula_piano.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.perfil_guitarra {
+  background-image: url(../images/cifra_club.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.perfil_canto {
+  background-image: url(../images/the_weekend.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.perfil_piano {
+  background-image: url(../images/perfil_piano.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

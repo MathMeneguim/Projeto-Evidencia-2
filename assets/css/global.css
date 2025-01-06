@@ -4,4 +4,14 @@
 @import './big-section.css';
 @import './news.css';
 @import './article.css';
-/* @import './footer-template.css' */
+@import './images.css';
+@import './fonts.css';
+
+
+h1,h2,h3,h4,h5 {
+  font-family: "Spyce Rice";
+}
+
+p,a {
+  font-family: "Archivo Black";
+}
